@@ -1,0 +1,5 @@
+Django==3.1.4
+Keras==2.3.0
+opencv-python==4.3.0.36
+requests==2.25.0
+tensorflow==2.1.0
